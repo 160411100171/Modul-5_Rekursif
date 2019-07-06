@@ -198,7 +198,7 @@ Juga merupakan bentuk fraktal. Segitiga ini memiliki bentuk dasar (yaitu, suatu 
         main()
 
 --------------------------------------------------------------------------------------------------------------------------------
-Praktikum – modul 5 (dalam lampiran)
+Praktikum – modul 5 (file tugas praktikum modul 5 disertakan di dalam lampiran)
 
 -------------------------------------------------------------------------------------------------------------------
 Jawaban
